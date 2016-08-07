@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.31235628109425306
 name: Aphasia Book Club of Los Angeles
+navigation:
+  - name: About
+    id: 38ef5e07-e05e-45ca-974a-4f83ebea638a
+    type: content
 title: Aphasia Book Club of Los Angeles
 description: 'A place to read, share, and discuss the best of adult fiction and non-fiction'
